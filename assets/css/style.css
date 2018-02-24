@@ -183,7 +183,7 @@ div.main {
     height: 550px;
     border: 1px #dddddd;
     background-color: rgb(219, 211, 200);
-    margin-left: 9.434%;
+    margin-left: 116px;
     margin-top: 60px;
     margin-bottom: 60px;
 }
@@ -195,7 +195,7 @@ div.links {
     height: 100%;
     width: 270px;
     border: .1px white;
-    margin-left: 820px;
+    margin-left: 800px;
     color: #4aaaa5;
 }
 
@@ -203,7 +203,7 @@ div.links {
 
 div.box1 {
     box-sizing: border-box;
-    margin-left: 9.434%;
+    margin-left: 116px;
     font-size: 25px;
     height: 100%;
     background-color: #4aaaa5;
